@@ -1,0 +1,43 @@
+{
+	"title": "TsplineSkinningDoc",
+	"description": "TsplineSkinningDoc",
+	"author": "Jiaming Ai",
+	"language": "zh-hans",
+	"plugins": [
+		"mathjax@git+https://github.com/CHN-beta/plugin-mathjax.git#update_cdn",
+		"code",
+		"-search",
+		"search-pro",
+		"github",
+		"splitter",
+		"tbfed-pagefooter",
+		"-sharing",
+		"sharing-plus",
+		"toggle-chapters",
+		"multipart",
+		"ancre-navigation",
+		"back-to-top-button",
+		"chapter-fold",
+		 "pageview-count"
+    ],
+	"pluginsConfig": {
+		"code": {
+			"copyButtons": true
+        },
+        "github": {
+            "url": "https://github.com/aijm"
+        },
+		"tbfed-pagefooter": {
+			"copyright": "Copyright © Jiaming Ai 2019",
+			"modify_label": "本指南发布时间：",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"sharing": {
+			"pocket": false,
+			"qq": false,
+            "twitter": false,
+			"weibo": true,
+			"all": ["instapaper","twitter", "weibo","messenger","qq"]
+       }
+	}
+}

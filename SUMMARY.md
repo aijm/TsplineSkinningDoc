@@ -19,5 +19,5 @@
     * [PiaNasriMethod&PiaMinJaeMethod](chapter5/PiaMethod.md)
 * [T样条体蒙皮](chapter6/README.md)
     * [VolumeSkinning](chapter6/VolumeSkinning.md)
-    * [VolumePiaMethod](chapter6/VolumePiaMethod)
+    * [VolumePiaMethod](chapter6/VolumePiaMethod.md)
 
